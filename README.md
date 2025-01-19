@@ -44,12 +44,12 @@
 <div style="display: flex; justify-content: space-between;">
   <!-- GitHub Stats Card -->
 
-  <div  style="flex-grow:1">
+  <div  style="width: 48%; height: 200%;">
   <img src="https://github-readme-stats.vercel.app/api?username=Zain523&show_icons=true&theme=algolia" alt="Zain's GitHub stats" />
   </div>
 
   <!-- GitHub Languages Card -->
-  <div style="flex-grow:1">
+  <div style="width: 48%; height: 200%; margin-bottom:2rem">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain523&layout=compact&theme=algolia" alt="Zain's GitHub languages" />
   </div>
 </div>
