@@ -41,4 +41,10 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
-![Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zain523&show_icons=true&theme=algolia)
+<div style="display: flex; justify-content: space-between;">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Zain523&show_icons=true&theme=algolia" alt="Zain's GitHub stats" width="48%" />
+
+  <!-- GitHub Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain523&layout=compact&theme=algolia" alt="Zain's GitHub languages" width="48%" />
+</div>
