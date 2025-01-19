@@ -43,8 +43,8 @@
 
 <div style="display: flex; justify-content: space-between;">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Zain523&show_icons=true&theme=algolia" alt="Zain's GitHub stats" style="flex-grow:1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zain523&show_icons=true&theme=algolia" alt="Zain's GitHub stats" style="flex-grow:1;" />
 
   <!-- GitHub Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain523&layout=compact&theme=algolia" alt="Zain's GitHub languages" style="flex-grow:1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain523&layout=compact&theme=algolia" alt="Zain's GitHub languages" style="flex-grow:1;" />
 </div>
