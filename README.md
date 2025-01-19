@@ -41,4 +41,4 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zain523&show_icons=true&theme=radical)
