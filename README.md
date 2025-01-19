@@ -50,3 +50,4 @@
 </div>
 
 ![snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?username=Zain523&palette=github-dark)
+![snake animation gif](https://github.com/Platane/snk/raw/output/ocean.gif?username=Zain523&color_snake=orange&color_dots=%23bfd6f6,%238dbdff,%2364a1f4,%234b91f1,%233c7dd9)
