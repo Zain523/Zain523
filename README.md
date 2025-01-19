@@ -41,10 +41,10 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 2rem;">
+<div style="display: flex; justify-content: space-between;">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Zain523&show_icons=true&theme=algolia" alt="Zain's GitHub stats" width="48%" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zain523&show_icons=true&theme=algolia" alt="Zain's GitHub stats" width="48%" height="220px" />
 
   <!-- GitHub Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain523&layout=compact&theme=algolia" alt="Zain's GitHub languages" width="48%" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain523&layout=compact&theme=algolia" alt="Zain's GitHub languages" width="48%" height="200px" />
 </div>
