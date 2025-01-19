@@ -1,4 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Full%20Stack%20Developer&fontSize=70&fontColor=fff&animation=fadeIn&desc=Building%20Scalable%20Web%20Applications&descAlign=50&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello!&fontSize=50&fontColor=fff)
+
+## Let's Connect and have a Chat! 💬
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)]([https://yourwebsite.com](https://rainbow-tulumba-752caa.netlify.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/zain-ul-abdin-676a12277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zain523)
 
 ### Hi there 👋
 * 👂 My name is Zain
