@@ -41,4 +41,4 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Zain523/Zain523/blob/output/github-contribution-grid-snake.svg)
