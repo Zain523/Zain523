@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Full%20Stack%20Developer&fontSize=70&fontColor=fff&animation=fadeIn&desc=Building%20Scalable%20Web%20Applications&descAlign=50&descSize=20)
 
 ### Hi there 👋
 * 👂 My name is Zain
