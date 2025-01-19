@@ -48,5 +48,3 @@
   <!-- GitHub Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain523&layout=compact&theme=algolia" alt="Zain's GitHub languages" width= "48%" height="190px"/>
 </div>
-
-![snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?username=Zain523)
