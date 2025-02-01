@@ -2,8 +2,8 @@
 
 ## Let's Connect and have a Chat! 💬
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)]([https://yourwebsite.com](https://rainbow-tulumba-752caa.netlify.app/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/zain-ul-abdin-676a12277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)](https://zain-portfolio-752caa.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-ul-abdin-676a12277)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zain523)
 
 ### Hi there 👋
